@@ -70,15 +70,6 @@ p {
   alt: "meeting";
 }
 
-.float-left {
-  float: left;
-  margin-right: 25px;
-}
-
-.float-right {
-  float: right;
-  margin-left: 25px;
-}
 
 .content {
   width: 75%;
@@ -122,7 +113,15 @@ p {
   color: #ffffff;
 }
 
-.services img {
+.float-left {
+  float: left;
+  margin-right: 25px;
+  max-height: 200px;
+}
+
+.float-right {
+  float: right;
+  margin-left: 25px;
   max-height: 200px;
 }
 
