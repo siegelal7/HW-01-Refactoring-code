@@ -29,9 +29,9 @@ body {
   padding-top: 15px;
   margin-right: 20px;
   float: right;
-  font-family: "Gill Sans", "Gill Sans MT", "Calibri", "Trebuchet MS", sans-serif;
+  font-family: "Gill Sans", "Gill Sans MT", "Calibri", "Trebuchet MS",
+    sans-serif;
   font-size: 20px;
-
 }
 
 ul {
@@ -42,13 +42,13 @@ ul {
   display: inline-block;
   margin-left: 25px;
   padding-top: 15px;
-  font-family: "Gill Sans", "Gill Sans MT", "Calibri", "Trebuchet MS", sans-serif;
+  font-family: "Gill Sans", "Gill Sans MT", "Calibri", "Trebuchet MS",
+    sans-serif;
 }
 
 ul li {
   display: inline-block;
   margin-left: 25px;
-
 }
 
 .link {
@@ -67,7 +67,7 @@ p {
   background-image: url("../images/digital-marketing-meeting.jpg");
   background-size: cover;
   background-position: center;
-  alt: "meeting"
+  alt: "meeting";
 }
 
 .float-left {
@@ -101,7 +101,6 @@ p {
   margin-bottom: 32px;
   color: #ffffff;
 }
-
 
 .bullet {
   margin-bottom: 10px;
