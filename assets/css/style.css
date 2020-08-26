@@ -48,10 +48,10 @@ ul {
 ul li {
   display: inline-block;
   margin-left: 25px;
-  
+
 }
 
-a {
+.link {
   color: #ffffff;
   text-decoration: none;
 }
@@ -127,17 +127,7 @@ p {
   max-height: 200px;
 }
 
-.search-engine-optimization h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-}
-
-.online-reputation-management h2 {
-  margin-bottom: 20px;
-  font-size: 36px;
-}
-
-.social-media-marketing h2 {
+.service {
   margin-bottom: 20px;
   font-size: 36px;
 }
