@@ -1,13 +1,15 @@
+/*styling for whole page */
 * {
   box-sizing: border-box;
   padding: 0;
   margin: 0;
 }
-
+/*just the background color for site */
 body {
   background-color: #d9dcd6;
 }
 
+/* styling for the header of the page */
 .header {
   padding: 20px;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
@@ -16,11 +18,13 @@ body {
   color: #ffffff;
 }
 
+/*styling for the outside letters of company name */
 #company {
   display: inline-block;
   font-size: 48px;
 }
 
+/*styling for the middle 3 letters of company name */
 #seo {
   color: #d9dcd6;
 }
@@ -34,6 +38,7 @@ body {
   font-size: 20px;
 }
 
+/*formatting for the list */
 ul {
   list-style-type: none;
   position: absolute;
@@ -46,6 +51,7 @@ ul {
     sans-serif;
 }
 
+/*formatting for the list items */
 ul li {
   display: inline-block;
   margin-left: 25px;
@@ -60,6 +66,7 @@ p {
   font-size: 16px;
 }
 
+/*added a alt tag in here on this picture */
 .hero {
   height: 800px;
   width: 100%;
@@ -70,12 +77,14 @@ p {
   alt: "meeting";
 }
 
+/*content contains the services offerings for the company */
 .content {
   width: 75%;
   display: inline-block;
   margin-left: 20px;
 }
 
+/*content contains the benefits of enlsting the services of the company */
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -87,6 +96,7 @@ p {
   background-color: #2589bd;
 }
 
+/*individual benefits styling */
 .benefit {
   margin-bottom: 32px;
   color: #ffffff;
@@ -103,6 +113,7 @@ p {
   max-width: 150px;
 }
 
+/*styling for the services offerings for the company */
 .services {
   margin-bottom: 20px;
   padding: 50px;
@@ -112,23 +123,27 @@ p {
   color: #ffffff;
 }
 
+/*class for the images that float to the left of the text */
 .float-left {
   float: left;
   margin-right: 25px;
   max-height: 200px;
 }
 
+/*class for the images that float to the right of the text */
 .float-right {
   float: right;
   margin-left: 25px;
   max-height: 200px;
 }
 
+/*styling for each individ. service offering for the company */
 .service {
   margin-bottom: 20px;
   font-size: 36px;
 }
 
+/*styling for the footer of page on bottom */
 footer {
   padding: 30px;
   clear: both;
