@@ -8,6 +8,7 @@ Here is the github repository: https://github.com/siegelal7/HW-01-Refactoring-co
 Here's our home page (hover to see the title text):
 
 ![home-page](./assets/images/2020-08-26.png "Home Page")
+
 Copyright (c) 2020, Andrew Siegel
 All rights reserved.
 
