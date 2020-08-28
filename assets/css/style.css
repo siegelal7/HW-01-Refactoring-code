@@ -123,6 +123,12 @@ p {
   color: #ffffff;
 }
 
+/*styling for each individ. service offering for the company */
+.service {
+  margin-bottom: 20px;
+  font-size: 36px;
+}
+
 /*class for the images that float to the left of the text */
 .float-left {
   float: left;
@@ -135,12 +141,6 @@ p {
   float: right;
   margin-left: 25px;
   max-height: 200px;
-}
-
-/*styling for each individ. service offering for the company */
-.service {
-  margin-bottom: 20px;
-  font-size: 36px;
 }
 
 /*styling for the footer of page on bottom */
